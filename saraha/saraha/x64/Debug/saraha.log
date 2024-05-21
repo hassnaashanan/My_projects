@@ -1,0 +1,7 @@
+﻿  site.cpp
+D:\learnning\level2\secondyear2ndsemster\Data Structure\tests\12\Saraha\saraha\saraha\site.cpp(588,66): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+D:\learnning\level2\secondyear2ndsemster\Data Structure\tests\12\Saraha\saraha\saraha\site.cpp(615,3): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\learnning\level2\secondyear2ndsemster\Data Structure\tests\12\Saraha\saraha\saraha\site.cpp(634,2): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\learnning\level2\secondyear2ndsemster\Data Structure\tests\12\Saraha\saraha\saraha\site.cpp(841,4): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\learnning\level2\secondyear2ndsemster\Data Structure\tests\12\Saraha\saraha\saraha\site.cpp(1042,3): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  saraha.vcxproj -> D:\learnning\level2\secondyear2ndsemster\Data Structure\tests\12\Saraha\saraha\x64\Debug\saraha.exe
